@@ -1,4 +1,4 @@
-# Consumer  Finance
+# Consumer  Finance Company Case Study Analysis
 > Consumer  Finance Company Case Study Analysis <br>
 Team : Amit Goyal and Vamshi Raghu Guntha <br>
 Date : 21-08-2024
