@@ -111,7 +111,7 @@ Combined impact
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
-Created by [[@Gnana0248](https://github.com/Gnana0248), [@Vikas-6888](https://github.com/Vikas-6888)] - feel free to contact me!
+Created by [[@Amit-code2024](https://github.com/Amit-code2024), [@Vamshi-1999](https://github.com/Vamshi-1999)] - feel free to contact me!
 
 <!-- Optional -->
 <!-- ## License -->
